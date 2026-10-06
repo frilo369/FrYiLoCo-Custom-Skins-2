@@ -33,3 +33,7 @@ Original Divine Skins WebP thumbnails, paired with each Fantome using the same f
 - [Mahoraga Sett — Sett](https://divineskins.gg/disco/mahoraga-sett) — `Custom Skins/Sett/Mahoraga_Sett-v1.0.webp`
 - [trollface shaco — Shaco](https://divineskins.gg/mojkqueira/trollface-shaco) — `Custom Skins/Shaco/trollface_shaco-1.0.0.webp`
 - [Foxy Warwick — Warwick](https://divineskins.gg/Wiko/foxy-warwick) — `Custom Skins/Warwick/Foxy_Warwick-26.10.0.webp`
+
+### Kog'Maw addition — 2026-10-06
+
+- [Zinedine Zidane KogMaw — Kog'Maw](https://divineskins.gg/disco/zinedine-zidane-kogmaw) — `Custom Skins/Kog'Maw/Zinedine_Zidane_KogMaw-v1.0.0.webp`
