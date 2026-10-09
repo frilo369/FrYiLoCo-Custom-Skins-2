@@ -1,0 +1,10 @@
+{
+  "removed": [
+    {
+      "sha": "23c25109f5527552c9e483d9b4f1c6b92f5f696a",
+      "size": 27653538,
+      "name": "zileanvu_1.1.4",
+      "reason": "Replaced by zileanvu_1.1.4-optimized: removes redundant shared assets that unnecessarily expand the overlay."
+    }
+  ]
+}
