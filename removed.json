@@ -5,6 +5,12 @@
       "size": 27653538,
       "name": "zileanvu_1.1.4",
       "reason": "Replaced by zileanvu_1.1.4-optimized: removes redundant shared assets that unnecessarily expand the overlay."
+    },
+    {
+      "sha": "49eb7fc871a893a03af10bc14aa6fd4b8546be30",
+      "size": 18388282,
+      "name": "Mahoraga Mundo",
+      "reason": "Replaced by a fixed version for the current patch, which the next update brings in."
     }
   ]
 }
