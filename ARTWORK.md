@@ -37,3 +37,11 @@ Original Divine Skins WebP thumbnails, paired with each Fantome using the same f
 ### Kog'Maw addition — 2026-10-06
 
 - [Zinedine Zidane KogMaw — Kog'Maw](https://divineskins.gg/disco/zinedine-zidane-kogmaw) — `Custom Skins/Kog'Maw/Zinedine_Zidane_KogMaw-v1.0.0.webp`
+
+## Added 2026-11-10
+
+- [Arlecchino Kayn](https://divineskins.gg/lexa2209/arlecchino-kayn) — `Custom Skins/Kayn/Arlecchino Kayn.webp`
+- [Morgana Akeno Himejima](https://divineskins.gg/youtzooooo/morgana-akeno-himejima) — `Custom Skins/Morgana/Akeno Himejima Morgana.webp`
+- [Morgana Albedo](https://divineskins.gg/youtzooooo/morgana-albedo) — `Custom Skins/Morgana/Albedo Morgana.webp`
+- [Usopp Caitlyn](https://divineskins.gg/Frog/usopp-caitlyn) — `Custom Skins/Caitlyn/Usopp Caitlyn.webp`
+- [Starscourge Radahn](https://divineskins.gg/Kaizen/starscourge-radahn) — `Custom Skins/Pantheon/Radahn Pantheon.webp`
