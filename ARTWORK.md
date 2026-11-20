@@ -45,3 +45,13 @@ Original Divine Skins WebP thumbnails, paired with each Fantome using the same f
 - [Morgana Albedo](https://divineskins.gg/youtzooooo/morgana-albedo) — `Custom Skins/Morgana/Albedo Morgana.webp`
 - [Usopp Caitlyn](https://divineskins.gg/Frog/usopp-caitlyn) — `Custom Skins/Caitlyn/Usopp Caitlyn.webp`
 - [Starscourge Radahn](https://divineskins.gg/Kaizen/starscourge-radahn) — `Custom Skins/Pantheon/Radahn Pantheon.webp`
+
+## Added 2026-11-20
+
+From the owner's Local Skins. The Divine Skins pages list each one as CC BY-NC 4.0; credit is also in each package's `META/info.json`. The .modpkg packages were converted to .fantome with every WAD kept. Crimson Moon Yi is FrYiLo's own skin, and its picture is the one inside its package.
+
+- [Archdemon Kayn](https://divineskins.gg/czcz/archdemon-kayn) by czcz — `Custom Skins/Kayn/Archdemon Kayn.webp`
+- Crimson Moon Yi by FrYiLo — `Custom Skins/Master Yi/Crimson Moon Yi.png`
+- [Aha Morgana](https://divineskins.gg/rorotea1/aha-morgana) by rorotea — `Custom Skins/Morgana/Aha Morgana.webp`
+- [Darkin Paantheon](https://divineskins.gg/Hassagi/darkin-paantheon) by SabaFutka (Hassagi) — `Custom Skins/Pantheon/Darkin Pantheon.webp`
+- [Sasuke Varus](https://divineskins.gg/Frog/sasuke-varus) by Frog — `Custom Skins/Varus/Sasuke Varus.webp`
