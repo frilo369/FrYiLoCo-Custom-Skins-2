@@ -55,3 +55,5 @@ From the owner's Local Skins. The Divine Skins pages list each one as CC BY-NC 4
 - [Aha Morgana](https://divineskins.gg/rorotea1/aha-morgana) by rorotea — `Custom Skins/Morgana/Aha Morgana.webp`
 - [Darkin Paantheon](https://divineskins.gg/Hassagi/darkin-paantheon) by SabaFutka (Hassagi) — `Custom Skins/Pantheon/Darkin Pantheon.webp`
 - [Sasuke Varus](https://divineskins.gg/Frog/sasuke-varus) by Frog — `Custom Skins/Varus/Sasuke Varus.webp`
+- [Demon of Lightning Talon](https://divineskins.gg/disco/demon-of-lightning-talon) by DISCO — `Custom Skins/Talon/Demon of Lightning Talon v2.webp`
+- [Darkin Sylaas](https://divineskins.gg/Hassagi/darkin-sylaas) by SabaFutka (Hassagi) — `Custom Skins/Sylas/Darkin Sylaas.webp`
