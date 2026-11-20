@@ -57,3 +57,15 @@ From the owner's Local Skins. The Divine Skins pages list each one as CC BY-NC 4
 - [Sasuke Varus](https://divineskins.gg/Frog/sasuke-varus) by Frog — `Custom Skins/Varus/Sasuke Varus.webp`
 - [Demon of Lightning Talon](https://divineskins.gg/disco/demon-of-lightning-talon) by DISCO — `Custom Skins/Talon/Demon of Lightning Talon v2.webp`
 - [Darkin Sylaas](https://divineskins.gg/Hassagi/darkin-sylaas) by SabaFutka (Hassagi) — `Custom Skins/Sylas/Darkin Sylaas.webp`
+
+## Added 2026-11-20 (second batch)
+
+Divine Skins thumbnails. Every page lists CC BY-NC 4.0, except T-Hex, which lists CC BY-NC-ND 4.0. Credit is in each package's `META/info.json`, except T-Hex: that package is shipped exactly as downloaded, so its credit is only here. Ashen Knights Rengar, BWC Sett and Thelema Katarina were converted from .modpkg to .fantome. Changes made: Atakhan shipped its Nocturne files in `Mordekaiser.wad.client`, so they were moved to `Nocturne.wad.client`. Thelema Katarina was built on Battle Queen Katarina, so its skin data was moved onto the base skin. Kaido Shyvana and Master of Madness Ashe got League's casing for their WAD names. BWC Sett is marked NSFW on Divine Skins.
+
+- [Ashen Knights Rengar](https://divineskins.gg/Antton/ashen-knights-rengar) by Antton — `Custom Skins/Rengar/Ashen Knights Rengar.webp`
+- [Atakhan](https://divineskins.gg/neoritch/atakhan) by Neoritch — `Custom Skins/Nocturne/Atakhan Nocturne.webp`
+- [Big White C0ck Sett](https://divineskins.gg/tor.lol/big-white-c0ck-sett) by tor.lol (NSFW) — `Custom Skins/Sett/BWC Sett.webp`
+- [Kaido Shyvana](https://divineskins.gg/Frog/kaido-shyvanna) by Frog — `Custom Skins/Shyvana/Kaido Shyvana.webp`
+- [Katarina Thelema: Gentle is the Night](https://divineskins.gg/Keithly/katarina-thelema-gentle-is-the-night) by Keithly — `Custom Skins/Katarina/Thelema Katarina.webp`
+- [Master of Madness Ashe](https://divineskins.gg/Dear_Agony/master-of-madness-ashe) by Dear_Agony — `Custom Skins/Ashe/Master of Madness Ashe.webp`
+- [T-Hex](https://divineskins.gg/Kaizen/t-hex) by Kaizen, CC BY-NC-ND 4.0 — `Custom Skins/Cho'Gath/T-Hex Cho'Gath.webp`
