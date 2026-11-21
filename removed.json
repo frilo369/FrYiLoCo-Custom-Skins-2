@@ -11,6 +11,12 @@
       "size": 18388282,
       "name": "Mahoraga Mundo",
       "reason": "Replaced by a fixed version for the current patch, which the next update brings in."
+    },
+    {
+      "sha": "bd6b9b57cdd6f651a2b155fbd6f99640f3bb491c",
+      "size": 24315038,
+      "name": "Kaido Shyvana",
+      "reason": "Removed: it makes League crash on load because it points at a Shyvana animation that neither the skin nor the game has."
     }
   ]
 }
